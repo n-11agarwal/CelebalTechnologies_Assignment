@@ -1,2 +1,2 @@
 Week 7 RAG Project
-Place any PDF inside the Documents folder before running the application.
+Create a folder named Documents in the project directory and place your PDF inside it before running the application.
